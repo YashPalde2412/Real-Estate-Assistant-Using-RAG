@@ -152,7 +152,7 @@ streamlit run main.py
 
 ## Author
 
-Built by **Your Name** — [LinkedIn](www.linkedin.com/in/yash-palde-612b99333) · [GitHub]([https://github.com/YOUR_USERNAME](https://github.com/YashPalde2412))
+Built by Yash R Palde — [LinkedIn](www.linkedin.com/in/yash-palde-612b99333) · [GitHub](https://github.com/YashPalde2412)
 
 ---
 
